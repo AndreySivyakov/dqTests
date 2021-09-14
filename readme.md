@@ -1,0 +1,1 @@
+It is a simple function to try stuff.
